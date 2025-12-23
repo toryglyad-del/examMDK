@@ -1,0 +1,34 @@
+# 1) ОПЕРАЦИОННАЯ СИСТЕМА
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# 2) PyCharm / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+
+# 3) PYTHON
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.venv/
+ENV/
+*.so
+.Python
+pip-log.txt
+.tox/
+.coverage
+.cache
+*.log
+db.sqlite3
+instance/
+dist/
+build/
+*.egg-info/
+*.egg
